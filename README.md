@@ -45,7 +45,7 @@ I love learning, building, and leveling up every day. 🚀
 - 🧠 Husband & girl dad (2.5-year-old daughter!)
 - 🧳 Love traveling & exploring new places
 - 🏓 Competitive ping pong player
-- 📚 Currently reading: *You Can Just Do Things*
+- 📚 Currently reading: *Principles of Building AI Agents*
 - 🎮 Currently playing: **Persona 3 Reload**
 
 ---
