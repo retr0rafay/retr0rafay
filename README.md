@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 About Me
-I'm a passionate **Software Engineer** at **Salesforce**, where I help build **AI infrastructure**.  
+I'm a **Senior Software Engineer** at **Flexbone**, where I help build **AI agents for Healthcare**.  
 I also co-founded **[Rounds.so](https://rounds.so)** – a platform reshaping how engineers are assessed in the AI age.  
 
 I graduated with a **B.S. in CS** from Georgia State and a **M.S. in CS** from Georgia Tech.  
@@ -24,10 +24,7 @@ I love learning, building, and leveling up every day. 🚀
 
 ### 🔨 What I'm Building
 
-- 🚀 **Rounds.so** – Private repo, but it's where 99.9% of my commits are coming from!
-- 🤖 **AI Infrastructure at Salesforce** – enabling intelligent automation for next-gen products.
-  
-> _“9 to 5: Salesforce engineer. 5 to 9: Startup founder.”_
+- 🚀 **Flexbone** – AI agents that could handle all the grunt work in healthcare while allowing healthcare providers to focus on patients.
 
 ---
 
