@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 About Me
-I'm a **Senior Software Engineer** at **Flexbone**, where I help build **AI agents for Healthcare**.  
+I'm a **Software Engineer** at **GreenSpark**, where I help build software for the scrap industry.  
 I also co-founded **[Rounds.so](https://rounds.so)** – a platform reshaping how engineers are assessed in the AI age.  
 
 I graduated with a **B.S. in CS** from Georgia State and a **M.S. in CS** from Georgia Tech.  
