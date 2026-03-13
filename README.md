@@ -63,9 +63,8 @@ I love learning, building, and leveling up every day. 🚀
 
 ### 🌐 Let's Connect
 
-- 🐦 [Twitter](https://twitter.com/RafaySyed_)
-- 💼 [LinkedIn](https://www.linkedin.com/in/rafay-syed-22170440/)
-- 🌐 [Rounds.so](https://rounds.so)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafaysyed-ai/)
+- 🌐 [My Website](https://www.rafaysyed.dev)
 
 ---
 
